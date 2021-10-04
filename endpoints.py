@@ -346,9 +346,7 @@ try:
 
         cur.execute("""truncate table "Temporal" cascade""")
         
-        rows = cur.fetchall()
-
-        return jsonify(rows)
+        return "Temporal Eliminado con exito"
 
     @app.route("/eliminarModelo", methods=['GET'])
     def eliminarModelo():
@@ -369,9 +367,9 @@ try:
 
         cur.execute("""copy public."Temporal" from '/home/mefm/Descargas/ArchivoDeEntradaPractica.csv' delimiter ';' csv header""")
         
-        rows = cur.fetchall()
+        ##        rows = cur.fetchall()
 
-        return jsonify(rows)
+        return "Temporal Cargado"
     
     @app.route("/cargarModelo", methods=['GET'])
     def modelo():
