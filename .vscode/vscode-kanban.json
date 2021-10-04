@@ -1,0 +1,97 @@
+{
+  "todo": [],
+  "in-progress": [
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-10-01T08:03:36.082Z",
+      "description": {
+        "content": "-Cargar Temporal\n-Cargar Modelo\n-Eliminar temporal\n-Eliminar Modelo\n",
+        "mime": "text/markdown"
+      },
+      "id": "9",
+      "references": [],
+      "title": "Agregar Funcionalidad a endpoints iniciales"
+    }
+  ],
+  "testing": [],
+  "done": [
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-09-30T06:15:41.921Z",
+      "description": {
+        "content": "Solo la consulta desde PgAdmin",
+        "mime": "text/markdown"
+      },
+      "id": "8",
+      "references": [],
+      "title": "Consulta de carga masiva"
+    },
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-09-30T05:25:52.406Z",
+      "id": "7",
+      "references": [],
+      "title": "No Poner direccion de tienda"
+    },
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-09-30T05:23:03.509Z",
+      "id": "4",
+      "references": [],
+      "title": "Realizar Consultas 1-3"
+    },
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-09-30T05:23:15.846Z",
+      "id": "5",
+      "references": [],
+      "title": "Realizar Consultas 4-6"
+    },
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-09-30T05:22:39.455Z",
+      "id": "2",
+      "references": [],
+      "title": "Realizar DB"
+    },
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-09-30T05:22:48.826Z",
+      "id": "3",
+      "references": [],
+      "title": "Realizar EndPoints"
+    },
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-09-30T05:22:26.114Z",
+      "id": "1",
+      "references": [],
+      "title": "Realizar ER"
+    },
+    {
+      "assignedTo": {
+        "name": "mefm"
+      },
+      "creation_time": "2021-09-30T05:23:32.878Z",
+      "id": "6",
+      "references": [],
+      "title": "Realizar consutlas 7-10"
+    }
+  ]
+}
